@@ -7,9 +7,9 @@
 
 - 🌱 Şu anda **Siber Güvenlik ve Python** öğreniyorum
 
-- 👯 ​​**Hiçbir şey** üzerinde işbirliği yapmak istiyorum
+- 👯 üzerinde işbirliği yapmak istiyorum
 
-- 🤝 Şu konuda yardım arıyorum **Hiçbir şey**
+- 🤝 Şu konuda yardım arıyorum 
 
 - 💬 Bana **Siber Güvenlik ve Python** hakkında sorular sorun
 
